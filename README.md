@@ -71,8 +71,7 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
+- [Background Image](https://www.w3schools.com/cssref/pr_background-image.asp)
 
 ## Author
 
