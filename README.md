@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/zitescody/intro-component/)
+- Live Site URL: [Live Site](https://zitescody.github.io/intro-component/)
 
 ## My process
 
@@ -42,6 +42,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JavaScript
 
 
 ### What I learned
@@ -199,7 +200,7 @@ const EMAIL_INVALID = "Please enter a correct email address format";
 
 
 ### Continued development
-
+I want to become more proficient with creating my own JavaScript functions. I want to have a clearer understanding of JavaScript form validations.
 
 
 ### Useful resources
