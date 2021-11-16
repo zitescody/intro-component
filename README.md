@@ -6,7 +6,6 @@ Intro form validation challenge from Frontend Mentor
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,10 +22,7 @@ Intro form validation challenge from Frontend Mentor
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-
-### Screenshot
-
-
+- Submit a form
 
 ### Links
 
